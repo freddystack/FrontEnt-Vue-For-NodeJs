@@ -1,4 +1,4 @@
-# forntwhintvue
+# Front Vue
 
 ## Project setup
 ```
